@@ -134,6 +134,7 @@ body {
   font: 16px/28px arial, sans-serif;
   background-color: #eaeaea;
   color: #333;
+  background-image: url(image/background.jpg);
 }
 
 .container {
@@ -200,4 +201,14 @@ body {
 .content p {
   margin-bottom: 20px;
   font-size: 14px;
+}
+
+.footer {
+  background-color: #333;
+  padding: 10px;
+}
+.footer .copy {
+  color: #eaeaea;
+  text-align: center;
+  font-size: 12px;
 }
